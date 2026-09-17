@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-09-17 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-09-17 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-17 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-17 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-17 | [solution](problems/0042-implement-relu-activation-function) |
